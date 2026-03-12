@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "OVERDRIVE",
+  "base_artist": "TWS",
+  "createdAt": "2026-03-12T09:06:14.774503Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mona Lisa Overdrive",
+      "artist": "Lil Ugly Mane",
+      "has_synced": true,
+      "path": "select/01_Mona_Lisa_Overdrive_Lil_Ugly_Mane.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rosy Overdrive",
+      "artist": "The Loud Family",
+      "has_synced": false,
+      "path": "select/02_Rosy_Overdrive_The_Loud_Family.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rosy Overdrive",
+      "artist": "Loud Family",
+      "has_synced": false,
+      "path": "select/03_Rosy_Overdrive_Loud_Family.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Overdrive",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/04_Overdrive_Drake.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Super Overdrive",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/05_Super_Overdrive_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Maximum Overdrive",
+      "artist": "2 Unlimited",
+      "has_synced": false,
+      "path": "select/06_Maximum_Overdrive_2_Unlimited.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Overdrive",
+      "artist": "Claire",
+      "has_synced": false,
+      "path": "select/07_Overdrive_Claire.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Robot Rock - Daft Punk Maximum Overdrive Mix",
+      "artist": "Daft Punk",
+      "has_synced": false,
+      "path": "select/08_Robot_Rock_-_Daft_Punk_Maximum_Overdrive_Mix_Daft_Punk.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Robot Rock (Daft Punk Maximum Overdrive Mix)",
+      "artist": "Daft Punk",
+      "has_synced": false,
+      "path": "select/09_Robot_Rock_(Daft_Punk_Maximum_Overdrive_Mix)_Daft_Punk.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Robot Rock (Daft Punk Maximum Overdrive Remix)",
+      "artist": "Daft Punk",
+      "has_synced": false,
+      "path": "select/10_Robot_Rock_(Daft_Punk_Maximum_Overdrive_Remix)_Daft_Punk.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Robot Rock (Maximum Overdrive)",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/11_Robot_Rock_(Maximum_Overdrive)_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Overdrive",
+      "artist": "Client",
+      "has_synced": true,
+      "path": "select/12_Overdrive_Client.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Destination: Overdrive (DFA Remix)",
+      "artist": "Chromeo",
+      "has_synced": false,
+      "path": "select/13_Destination__Overdrive_(DFA_Remix)_Chromeo.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Destination Overdrive (DFA Remix)",
+      "artist": "Chromeo",
+      "has_synced": false,
+      "path": "select/14_Destination_Overdrive_(DFA_Remix)_Chromeo.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Destination: Overdrive",
+      "artist": "Chromeo",
+      "has_synced": true,
+      "path": "select/15_Destination__Overdrive_Chromeo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OVERDRIVE",
+      "artist": "TWS",
+      "has_synced": false,
+      "path": "select/pl_01_OVERDRIVE_TWS.txt"
+    }
+  ]
+}
